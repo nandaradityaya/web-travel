@@ -1,2 +1,2 @@
 # web-travel
-This is my website project which i learned from course Build WIth Angga (BWA).
+please open branch master to view the project.
